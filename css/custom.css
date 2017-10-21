@@ -1,0 +1,24 @@
+h1, h2{
+	text-align: center;
+}
+html { 
+	overflow-y: scroll; 
+}
+body { 
+	font-family: 'Helvetica', sans-serif; 
+	background: #f7fcf7;
+	color: #114b5f;
+}
+.jumbotron {
+	background: #028090;
+	color: #f7fcf7;
+	font-family: 'Helvetica', sans-serif;	
+}
+a:link{
+        text-decoration: none;
+        color: #456990;
+}
+a:visited {
+	text-decoration: none;
+        color: #f45b69;
+}
